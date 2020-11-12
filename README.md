@@ -9,48 +9,15 @@ http://mind.sourceforge.net/mind4th.html
 mind.f  is a forth ANSI program that simulates the mind of a robot,
 or AI.
 
-(read  running MIND on your browser) 
-                           __________                           
-            ___________    /          \    ___________           
-           /           \  ( TABULARASA )  /           \          
-          /  motorium   \  \__________/  /  BOOTSTRAP  \         
-          \_____________/\    __|___    /\_____________/
-       __________         \  /      \  /           ________
-      /          \         \/  MAIN  \/           /        \
-     (  volition  )--------<  ALIFE   >----------( SECURITY )
-      \__________/         /\  LOOP  /\           \________/
-           _____________  /  \______/  \  _____________   |
-          /             \/      |       \/             \  |
-  _______ \    THINK    /   ____V_____   \  SENSORIUM  /  |
- /       \/\___________/   /          \   \___________/  _V_
-( ENGLISH )  ___________  (  emotion   )       |        /   \
- \_______/  /           \  \__________/        |       ( HCI )
-     |     ( VERB-PHRASE )   ________          |        \___/
-     |     /\___________/\  /        \      ___V____________
-   __|__  /     |      |  \/          \    /                \
-  /     \/    __V__    |  (   SPEECH   )--(     AUDITION     )
- (  SVO  )   /     \   |   \          /   /\________________/
-  \_____/   ( REIFY )  |    \________/   /   |            |
-     |       \_____/   |    /           /    |            |
-     |          |      |   /           /   __V__         _V___
-     V__________|______V  /   ______  /   /     \       /     \
-    /                   \/   /      \/   / OLD-  \     / NEW-  \
-    \    NOUN-PHRASE    /   ( audSTM )  ( CONCEPT )   ( CONCEPT )
-     \_________________/     \______/    \       /     \       /
-                             /           /\_____/       \_____/
-                  ________  /   ________/    |  \_______/  |
-                 /        \/   /        \    |  /       \  |
-                ( audRecog )  ( ACTIVATE )   | ( enVocab ) |
-                 \________/    \________/    |  \_______/  |
-                    _________  /             V_____________V
-                   /         \/             /               \
-                  ( SPREADACT )            (   INSTANTIATE   )
-                   \_________/              \_______________/
+(read  running MIND on your browser * ) 
 
-Before you take the trouble to download and unzip the specific Win32Forth 
+<img src=“https://github.com/PeterForth/Mind-forth-AI/blob/main/mind-1.jpg”> 
+
+* Before you take the trouble to download and unzip the specific Win32Forth 
 W32FOR42_671.zip version into which you must "fload" and run the free AI 
 source code listed below, if you use the Microsoft Internet Explorer (MSIE) 
-Web browser you may click on the JavaScript Mind.html tutorial AI Mind 
+Web browser you may click on the JavaScript Mind.html tutorial AI Mind
+http://mind.sourceforge.net/Mind.html 
 to see in advance how the Mind.Forth AI program operates and thinks. 
 
 Both Mind.Forth and the JavaScript AI Mind operate on the neuroscientific 
