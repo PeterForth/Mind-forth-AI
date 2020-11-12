@@ -11,7 +11,7 @@ or AI.
 
 (read  running MIND on your browser * ) 
 
-![IMage1] (https://github.com/PeterForth/Mind-forth-AI/blob/main/mind-1.jpg)
+![mind-1](https://user-images.githubusercontent.com/43484446/98999725-01d2cd80-2517-11eb-8964-c9b66caa6df8.jpg)
 
 * Before you take the trouble to download and unzip the specific Win32Forth 
 W32FOR42_671.zip version into which you must "fload" and run the free AI 
